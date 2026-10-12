@@ -10,7 +10,6 @@ Due to data privacy and company confidentiality policies, raw datasets, customer
 - **Geographic Filtering (`Aop city`):** Dynamic analysis across major regions including `BNG`, `CHN`, `JAI`, `KOL`, `MMR`, and `NCR`.
 - **Time-Based Tracking:** Filterable by monthly snapshots (`May-23` to `Aug-23`).
 - **Segment Breakdown:** Visual comparison across **Overall**, **FTR**, and **TEUNRED** customer classifications.
-![Uploading D45_DFR Analysis Dashboard.jpeg…]()
 
 ---
 
