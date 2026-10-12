@@ -21,8 +21,9 @@ Due to data privacy and company confidentiality policies, raw datasets, customer
    - Upgrades dramatically drop off at **1 Gbps** (0.0%), as users are already at the top tier.
 
   Dashboard 
+  ![D45_DFR Analysis Dashboard 2](https://github.com/Abhijeetpatil-1998/D45_DFR-Analysis-Dashboard-Speed-Wise-Subscriber-Dynamics-/blob/main/D45_DFR%20Analysis%20Dashboard%202.jpeg)
   ![D45_DFR Analysis Dashboard](https://github.com/Abhijeetpatil-1998/D45_DFR-Analysis-Dashboard-Speed-Wise-Subscriber-Dynamics-/blob/main/D45_DFR%20Analysis%20Dashboard.jpeg)
-  1[D45_DFR Analysis Dashboard 2](https://github.com/Abhijeetpatil-1998/D45_DFR-Analysis-Dashboard-Speed-Wise-Subscriber-Dynamics-/blob/main/D45_DFR%20Analysis%20Dashboard%202.jpeg)
+  
 
 ## 🛠️ Tech Stack & Tools
 
