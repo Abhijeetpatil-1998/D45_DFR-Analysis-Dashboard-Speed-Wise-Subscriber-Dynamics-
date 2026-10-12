@@ -1,9 +1,9 @@
 # D45_DFR-Analysis-Dashboard-Speed-Wise-Subscriber-Dynamics-
 Analyzes subscriber behavior across different internet speed tiers (50 Mbps to 1 Gbps), focusing on Upgrade, Downgrade, Churn, and combined Downgrade + Churn rates across different categories/segments (Overall, FTR, TEUNRED)
-# Note :
+## Note :
 Due to data privacy and company confidentiality policies, raw datasets, customer records, and the original workbook are proprietary and cannot be shared publicly.
 
-# Key Features & Filters
+## Key Features & Filters
 
 - **Speed Tier Segmentation:** Categorized by speed buckets: `50 Mbps`, `100 Mbps`, `150 Mbps`, `200 Mbps`, `300 Mbps`, `500 Mbps`, and `1 Gbps`.
 - **Geographic Filtering (`Aop city`):** Dynamic analysis across major regions including `BNG`, `CHN`, `JAI`, `KOL`, `MMR`, and `NCR`.
