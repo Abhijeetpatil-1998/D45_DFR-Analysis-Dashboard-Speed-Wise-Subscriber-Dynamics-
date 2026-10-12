@@ -21,7 +21,7 @@ Due to data privacy and company confidentiality policies, raw datasets, customer
    - Ultra-high speed tiers (e.g., **500 Mbps** and **1 Gbps**) experience high churn and downgrade rates (reaching up to **36.9% – 41.2%** combined risk).
    - Upgrades dramatically drop off at **1 Gbps** (0.0%), as users are already at the top tier.
 
----
+  Dashboard <a href="https://github.com/Abhijeetpatil-1998/D45_DFR-Analysis-Dashboard-Speed-Wise-Subscriber-Dynamics-/blob/main/D45_DFR%20Analysis%20Dashboard.jpeg">View Dashboard</a>
 
 ## 🛠️ Tech Stack & Tools
 
